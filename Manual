@@ -1,0 +1,26 @@
+# Manual del Usuario - Sistema de Ventas v1.0
+
+## 1. Instalacion del programa
+Para instalar el sistema de ventas, primero tiene que **descargar el archibo comprimido** desde la pagina oficial.  
+Despues, *descomprima* el archibo y **clickea el setup.exe** para iniciar la instalacion.  
+Nota: No cierre el programa mientras se este instalando porque puede probocar erros.
+
+## 2. Inicio de secion
+Cuando el sistema abre, **el usuario deben ingresar** su nombre de usario y clave.  
+Si el usario escribe mal la clave tres veses, el sistema se cierra automaticamente.  
+Es importante recordar que la clave se debe de cambiar cada mes para seguridad.
+
+## 3. Registro de productos
+Para registrar un producto, entre al menu princial y aprete el boton “Agregar producto”.  
+Se mostrara una ventanita donde el usario tiene que poner los datos como: nombre, precio, cantida y la categoria.  
+Si el precio se deja en blanco, el sistema da error pero **no explica cual es**.
+
+## 4. Reportes de ventas
+El sistema permite **generar reportes de venta diarios, semanales y mensual**.  
+Para ello, haga clic en el menu “Reportes” y seleccione el tipo.  
+Los reportes son guardados en formato **exel** en la carpeta “Mis documentos”.  
+A veces el archivo no se abre bien en otro programas, es recomendable usar solo Microsoft Exel.
+
+## 5. Soporte Tecnico
+Si tiene problemas con el programa, **mande un correo a suport@sistemaventas.com**.  
+Nuestro equpo tecnico trata de responder lo mas rapido possible, pero a veces **se tardan hasta dos dias en contestar**.  
